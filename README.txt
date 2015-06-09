@@ -14,3 +14,5 @@ Once this is complete, it will be time to implement the Go bot proper.  There's 
 but I don't want to go too far into detail on my plans for it until I finish the Go board tracking class.  I may even
 split these into two separate repositories so that others can make use of my Go board once it is completed.  I hope to keep
 that portion of the program reasonably usable as a standalone.
+
+P.S:  The Main.cpp is just a test case file with no logical purpose right now.  You can safely ignore it.
